@@ -1,6 +1,7 @@
+print('Salam manually')
 
-print('salam Elmir')
-print('salam olsun')
+print('Salam Elmir')
+print('Salam necesen')
+primt('Salam code2')
 
-print('hello world')
 
